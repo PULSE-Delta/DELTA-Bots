@@ -1,0 +1,33 @@
+{
+  "name": "cloudbot-v12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "moment": "^2.26.0",
+    "path": "^0.12.7",
+    "sqlite": "^4.0.9",
+    "vultrex.db": "^1.4.1",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.1",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.0.0",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "table": "^5.4.6",
+    "array-sort": "^1.0.0",
+    "jsdom": "^16.2.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
